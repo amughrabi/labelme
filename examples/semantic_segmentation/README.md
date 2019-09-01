@@ -1,5 +1,10 @@
 # Semantic Segmentation Example
 
+# Important
+```
+Sorry I'm not able to view the full doc, so I wrote it here. Please note that when I used the instructions (underneath Ubuntu section) in the README file and hit `labelme` in the terminal, I have command not found, when I googled it, I found the `labelme` is in `pip list`, but it is not accessible from terminal, to resolve this issue, I used `export PATH=$PATH:~/.local/bin`, and It works like a charm. Thanks a lot!
+```
+
 ## Annotation
 
 ```bash
